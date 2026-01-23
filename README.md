@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working on: AWS<br>🌱 I’m currently learning: Cloud<br>🤔 I’m looking for help with AI<br>💬 Ask me about: Python, C++, C, AWS<br>📫 How to reach me: vivek.s.pawar1@gmail.com</h6>
+<h6 align="left">🔭 I’m currently working on: AWS<br>🌱 I’m currently learning: Cloud<br>🤔 I’m looking for help with AI<br>💬 Ask me about: Python, C++, C, AWS<br>📫 How to reach me:vivek.s.pawar6141@gmail.com </h6>
 
 ###
 
